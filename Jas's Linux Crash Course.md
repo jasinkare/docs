@@ -98,3 +98,19 @@ There are several more DEs not listed here, including Budgie, Deepin, MATE, and 
 **Advanced Users:** People who aren't afraid to run commands in a terminal, and know that they might break things if they mess it up.
 - CachyOS - My distro of choice, while stable enough out of the box for most users, definitely requires some terminal use for advanced config.
 - KDE Linux - Not listed earlier, currently in-development distro from the KDE Plasma community. Can be built from scratch.
+# Filesystem
+There are multiple filesystems with support included in the Linux kernel. You are probably familiar with NTFS, the Windows filesystem, and ExFAT, the filesystem commonly found on USB devices.
+### Filesystem Examples
+- ext4 - The modern version of the classic Linux filesystem, continued to be developed for stability and reliability.
+- btrfs - Supports snapshots, corruption checking, and is optimized for use on SSDs.
+- zfs - Built for large scale deployments, with strong redundancy and backup support.
+## Filesystem Structure
+The way Linux-based systems organize your files is far different than on Windows, but is similar to the MacOS structre. The base folder, or "root", is referred to as simply '/', with all other files on the system being stored under that. The main directory for user data is '/home', and is where your downloads, documents, and pictures etc. are stored.
+
+Other common locations include '/etc', where static configuration files are stored, '/usr', where read-only user files are stored, '/bin' (sometimes also '/usr/bin'), which houses program data, and '/mnt', where drives mounted for access are attached to the main filesystem.
+
+99 times out of 100, most work you do as an end user is under /home or /usr - most locations outside of that will require root access!
+### What is "root", why can't I run this command?
+Many commands you try to run on Linux require root access to do anything. Root is the system user, and runs with full administrative privilege - similar to how Windows pops up a window to ask "Do you want to let XYZ.exe make changes to your system?", when you try to do something that would require higher privileges, your terminal will prompt you to enter the root password to proceed.
+
+Users should be careful when trying to execute things that require root privileges - one bad "rm rf" could delete your entire filesystem, and that's just one command out of very many!
