@@ -85,3 +85,13 @@ There are several more DEs not listed here, including Budgie, Deepin, MATE, and 
 - Gaming-focused, Valve-developed Arch-based distro
 - Designed specifically for the Steam Deck, likely to see a release for Steam Machine
 - Features KDE Plasma in Desktop Mode
+# My Recommendations
+**Basic Users:** People who want something that "just works" or do not consider themselves tech-savvy.
+- Linux Mint - Commonly recommended for first-time Linux users. Cinnamon is not my DE of preference, but it works.
+- Ubuntu - Company-supported, with Kubuntu for KDE, it's stable and has good support by major computer companies.
+**Experienced Users:** People who can work their way around a PC, know how to run basic commands while following instructions.
+- Fedora or Nobara - Both are good, stable options, with Nobara simply focused towards gaming.
+- EndeavourOS - For rolling release, when equipped with both the Arch Wiki and EndeavourOS support ecosystem
+**Advanced Users:** People who aren't afraid to run commands in a terminal, and know that they might break things if they mess it up.
+- CachyOS - My distro of choice, while stable enough out of the box for most users, definitely requires some terminal use for advanced config.
+- KDE Linux - Not listed earlier, currently in-development distro from the KDE Plasma community. Can be built from scratch.
