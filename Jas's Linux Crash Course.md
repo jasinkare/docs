@@ -73,15 +73,15 @@ There are several more DEs not listed here, including Budgie, Deepin, MATE, and 
 - Bleeding-edge, rolling release minimalist distro
 - Extensive wiki, users intended to frequently reference as needed
 - Build-your-own-system - does not have built in configuration tools
-##### CachyOS
+###### CachyOS
 - Gaming-focused Arch-based distro
 - Fully-customized software stack - offers customized packages for optimization
 - Installer provides 10+ options for DEs and tiling window managers
-##### EndeavourOS
+###### EndeavourOS
 - Simple, preconfigured Arch-based distro
 - Good way to dip your toes into Arch without having to jump into the deep end
 - Features KDE Plasma by default, but supports many DEs
-##### SteamOS
+###### SteamOS
 - Gaming-focused, Valve-developed Arch-based distro
 - Designed specifically for the Steam Deck, likely to see a release for Steam Machine
 - Features KDE Plasma in Desktop Mode
