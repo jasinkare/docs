@@ -15,7 +15,7 @@ The usual things that differentiate a Linux distro are the package manager, desk
 ##### Package Manager
 A package manager is like the app store on your phone. Instead of downloading programs from a random website, many times you can simply fetch the program via your package manager, which will handle installation and deployment for you.
 Many distributions also include GUI-based package installers - they do all the command work for you!
-**Common Package Managers**
+###### Common Package Managers
 - apt - Used by Debian, Ubuntu, and others in the Debian family
 - pacman - Used by Arch-based systems
 - RPM - Used by Fedora and other RedHat-related systems
@@ -25,7 +25,7 @@ Many distributions also include GUI-based package installers - they do all the c
 ##### Desktop Environment
 The desktop environment(**DE**) is the graphical part of your OS - the desktop, windows, and other graphical UI parts.
 Desktop environments are powered by what is called a "display server" that dictates how elements are displayed. There are two families of display server - X11 and Wayland. X11 featured prominently in the older Linux ecosystem, and Wayland is being transitioned to throughout the mid 2020s by more and more DEs.
-**Common Desktop Environments**
+###### Common Desktop Environments
 - GNOME - Functions similar to the MacOS desktop, with a centered application bar at the bottom and a system menu at the top.
 - KDE Plasma - Functions similarly to the Windows desktop, with an application launcher at the bottom left attached to the taskbar. 
 - Cinnamon - GNOME-based version of a Windows desktop-like interface.
