@@ -10,6 +10,7 @@ Each and every distro has different programs, looks, and underlying tools, and t
 ### Distro "Families"
 Linux distros fall into several distinct "family trees", where options in the same tree will share a lot in common compared to others.
 The three main groups are Debian-based, Fedora-based, and Arch-based. Both Android and ChromeOS(the OS that runs a Chromebook) are also in their own tree, though have less cross-compatibility with the other Linux-based distros.
+This document is a collection of *some* distros, not all. Check out distrowatch.com and go to town if you want to read more.
 ### Major Differences
 The usual things that differentiate a Linux distro are the package manager, desktop environment, and basic utilities. Generally, Debian-based systems are long-term support focused, Fedora-based systems stay relatively up to date with the stable Linux kernel, and Arch-based systems run on rolling releases - expect updates to be available daily, and the occasional tinkering session.
 ##### Package Manager
