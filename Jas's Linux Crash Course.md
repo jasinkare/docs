@@ -86,6 +86,11 @@ There are several more DEs not listed here, including Budgie, Deepin, MATE, and 
 - Gaming-focused, Valve-developed Arch-based distro
 - Designed specifically for the Steam Deck, likely to see a release for Steam Machine
 - Features KDE Plasma in Desktop Mode
+### Other Distro Branches
+###### openSUSE Tumbleweed
+- Rolling-release, EU-developed distro
+- Tested releases, meaning they will be more stable than standard RR
+- Support for multiple DEs
 # My Recommendations
 **Basic Users:** People who want something that "just works" or do not consider themselves tech-savvy.
 - Linux Mint - Commonly recommended for first-time Linux users. Cinnamon is not my DE of preference, but it works.
